@@ -1,11 +1,11 @@
 {
-    "name": "zeevx/lara-termii",
+    "name": "felix/lara-termii-9",
     "description": "A Laravel Package for Termii - https://www.termii.com",
     "keywords": [
-        "zeevx",
-        "lara-termii"
+        "felix",
+        "lara-termii-9"
     ],
-    "homepage": "https://github.com/zeevx/lara-termii",
+    "homepage": "https://github.com/BrownAJKE/termii-laravel-9",
     "license": "MIT",
     "type": "library",
     "authors": [
