@@ -15,6 +15,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BrownAJKE/termii-laravel-9.git"
+        }
+    ],
     "require": {
         "php": "^7.4|^8.0",
         "ext-json": "*"
